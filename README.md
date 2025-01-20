@@ -41,60 +41,117 @@ Semua pesanan tunduk pada penerimaan oleh NZ Fashion. Anda setuju untuk membayar
 STRUKTUR FOLDER DIREKTORI: 
 
 clothing/
+
 ├── admin/
+
 │   ├── assets/
+
 │   │   ├── css/
+
 │   │   ├── img/
+
 │   │   ├── js/
+
 │   │   └── ...
+
 │   ├── includes/
+
 │   │   ├── header.php
+
 │   │   ├── footer.php
+
 │   │   └── ...
+
 │   ├── dashboard.php
+
 │   ├── login.php
+
 │   └── ...
+
 ├── assets/
+
 │   ├── css/
+
 │   │   ├── bootstrap.min.css
+
 │   │   ├── font-awesome.min.css
+
 │   │   ├── style.css
+
 │   │   └── ...
+
 │   ├── img/
+
 │   │   ├── favicon_nz.jpg
+
 │   │   ├── logo_nz.jpg
+
 │   │   ├── profiles/
+
 │   │   │   ├── adiwiryawan-ai.jpg
+
 │   │   │   └── ...
+
 │   │   ├── product/
+
 │   │   │   ├── product1.jpg
+
 │   │   │   └── ...
+
 │   │   └── ...
+
 │   ├── js/
+
 │   │   ├── bootstrap.min.js
+
 │   │   ├── jquery.min.js
+
 │   │   └── ...
+
 │   └── ...
+
 ├── includes/
+
 │   ├── header.php
+
 │   ├── footer.php
+
 │   └── ...
+
 ├── database/
+
 │   ├── nz_fashion.sql
+
 │   └── ...
+
 ├── img/
+
 │   ├── user/
+
 │   │   ├── default.jpg
+
 │   │   ├── adiwiryawan.jpeg
+
 │   │   └── ...
+
 │   ├── product/
+
 │   │   ├── product1.jpg
+
 │   │   └── ...
+
 │   └── ...
+
 ├── account.php
+
 ├── home.php
+
 ├── product_details.php
+
 ├── index.php
+
 ├── login.php
+
 ├── register.php
+
 └── ...
