@@ -36,3 +36,65 @@ Anda harus segera memberi tahu NZ Fashion jika Anda mencurigai adanya penggunaan
 
 Pemesanan dan Pembayaran: Anda dapat melakukan pemesanan produk melalui Layanan dengan menambahkan item ke keranjang belanja Anda dan melanjutkan ke pembayaran. 
 Semua pesanan tunduk pada penerimaan oleh NZ Fashion. Anda setuju untuk membayar semua biaya, termasuk biaya pengiriman dan penanganan, pajak yang berlaku, dan biaya lainnya yang terkait dengan pesanan Anda.
+
+
+STRUKTUR FOLDER DIREKTORI: 
+
+clothing/
+├── admin/
+│   ├── assets/
+│   │   ├── css/
+│   │   ├── img/
+│   │   ├── js/
+│   │   └── ...
+│   ├── includes/
+│   │   ├── header.php
+│   │   ├── footer.php
+│   │   └── ...
+│   ├── dashboard.php
+│   ├── login.php
+│   └── ...
+├── assets/
+│   ├── css/
+│   │   ├── bootstrap.min.css
+│   │   ├── font-awesome.min.css
+│   │   ├── style.css
+│   │   └── ...
+│   ├── img/
+│   │   ├── favicon_nz.jpg
+│   │   ├── logo_nz.jpg
+│   │   ├── profiles/
+│   │   │   ├── adiwiryawan-ai.jpg
+│   │   │   └── ...
+│   │   ├── product/
+│   │   │   ├── product1.jpg
+│   │   │   └── ...
+│   │   └── ...
+│   ├── js/
+│   │   ├── bootstrap.min.js
+│   │   ├── jquery.min.js
+│   │   └── ...
+│   └── ...
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── ...
+├── database/
+│   ├── nz_fashion.sql
+│   └── ...
+├── img/
+│   ├── user/
+│   │   ├── default.jpg
+│   │   ├── adiwiryawan.jpeg
+│   │   └── ...
+│   ├── product/
+│   │   ├── product1.jpg
+│   │   └── ...
+│   └── ...
+├── account.php
+├── home.php
+├── product_details.php
+├── index.php
+├── login.php
+├── register.php
+└── ...
